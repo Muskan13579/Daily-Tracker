@@ -1,5 +1,6 @@
 # Daily-Tracker
-## 4 october 2026
+## 21 october 2026
 
-Github ,apna college
+Python ,Telusko(6 videos)
+Associative memory ,auto associative with one example.
 ---
